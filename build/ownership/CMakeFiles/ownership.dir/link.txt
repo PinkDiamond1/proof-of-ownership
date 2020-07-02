@@ -1,0 +1,1 @@
+/usr/bin/eosio-ld  CMakeFiles/ownership.dir/ownership.obj -o ownership.wasm 

@@ -1,0 +1,14 @@
+# Target labels
+ ownership_project
+# Source files and their labels
+/root/contracts/ownership/build/CMakeFiles/ownership_project
+/root/contracts/ownership/build/CMakeFiles/ownership_project.rule
+/root/contracts/ownership/build/CMakeFiles/ownership_project-complete.rule
+/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-install.rule
+/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-mkdir.rule
+/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-download.rule
+/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-update.rule
+/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-patch.rule
+/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-configure.rule
+/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-build.rule
+/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-test.rule

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/contracts/ownership/build/CMakeFiles/ownership_project"
+		},
+		{
+			"file" : "/root/contracts/ownership/build/CMakeFiles/ownership_project.rule"
+		},
+		{
+			"file" : "/root/contracts/ownership/build/CMakeFiles/ownership_project-complete.rule"
+		},
+		{
+			"file" : "/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-install.rule"
+		},
+		{
+			"file" : "/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-mkdir.rule"
+		},
+		{
+			"file" : "/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-download.rule"
+		},
+		{
+			"file" : "/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-update.rule"
+		},
+		{
+			"file" : "/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-patch.rule"
+		},
+		{
+			"file" : "/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-configure.rule"
+		},
+		{
+			"file" : "/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-build.rule"
+		},
+		{
+			"file" : "/root/contracts/ownership/build/ownership_project-prefix/src/ownership_project-stamp/ownership_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ownership_project"
+		],
+		"name" : "ownership_project"
+	}
+}
