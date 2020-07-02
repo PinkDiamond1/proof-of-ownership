@@ -1,3 +1,0 @@
-/root/contracts/ownership/build/ownership/CMakeFiles/rebuild_cache.dir
-/root/contracts/ownership/build/ownership/CMakeFiles/ownership.dir
-/root/contracts/ownership/build/ownership/CMakeFiles/edit_cache.dir
