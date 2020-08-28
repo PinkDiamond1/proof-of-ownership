@@ -3,7 +3,7 @@
 ACTION ownership::prove( name user, checksum256 code ) {
   require_auth(permission_level(user, "owner"_n));
 
-  userstable ustore(_self, _self.value);
+  userstable ustore(_self, user.value);
 
   print_f("Name : %\nCode : %\n",user,code);
 
