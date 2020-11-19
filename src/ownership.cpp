@@ -14,7 +14,6 @@ ACTION ownership::prove( name user, checksum256 code ) {
     });
   } else {
     ustore.modify(*ustore.begin(), _self, [&]( auto& u ) {
-      u.user = user;
       u.code = code;
     });
   }
